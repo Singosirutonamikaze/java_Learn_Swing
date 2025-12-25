@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build and Release Folders
 bin-debug/
 bin-release/
@@ -16,3 +17,19 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+=======
+/code/nbproject/private/
+/code/dist/
+/code/build/
+/JavaApplication2/nbproject/private/
+/ConvertiseurDeDevise/target/
+/jframe/target/
+/accueil/target/
+/javaetsesclassesswing/target/
+/Main/target/
+/textconvertisseur/target/
+/testconvertisseur/nbproject/private/
+/testconvertisseur/build/
+/testconvertisseur/dist/
+/initiation/target/
+>>>>>>> 058e71c (Ajout des projets sauf boutique)
